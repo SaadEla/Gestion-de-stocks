@@ -1,0 +1,84 @@
+table{
+	border-collapse:collapse;
+	vertical-align: center;
+	width: 75%;
+	height: 200%;
+back
+}
+td,th{
+	border:3px solid black;
+	border-style: inset;
+  padding-bottom: 100px;
+}
+#titre {
+	font-family: Tahoma, Garamond, sans-serif;
+    opacity: 20;
+    text-decoration: none;
+    font-size: xx-large;
+    font-weight: 20;
+    font-style: italic;
+    font-variant: normal;
+    padding-right: 300px;
+}
+.sc1{
+    padding-left: 200px;
+    padding-bottom: 200px;
+}
+.btn a {
+  background-color: #0208B9;
+  border: none;
+  color: white;
+  padding: 0px 35px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  width: 160%;
+  position:relative;
+  left:165%;
+}
+
+.btn a:hover {opacity: 1}
+footer{
+	padding-top: 375px;
+}
+#menu {
+    width: 46px;
+    height: 44px;
+}
+#buttonmod {
+  background-color: #52CB01;
+  border: none;
+  color: white;
+  padding: 0px 15px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#buttonmod:hover {opacity: 1}
+#buttonsup {
+  background-color: #F30202;
+  border: none;
+  color: white;
+  padding: 0px 15px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#buttonsup:hover {opacity: 1}
